@@ -1,0 +1,6 @@
+
+Getting the directory: cp ~cs571-1/public/xv6.tar.gz .
+
+Extract it.
+
+
